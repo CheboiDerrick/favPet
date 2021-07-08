@@ -38,7 +38,8 @@ nav{
     height: 10vh;
     width: 100%;
     margin: auto;
-    border-radius: solid 2px #121212;   
+    border-radius: solid 2px #121212;  
+    position: fixed; 
 }
 
 nav ul{
