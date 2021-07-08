@@ -7,6 +7,10 @@
     box-sizing: border-box;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .profile{
     display: flex;
     flex-direction: column;
@@ -33,7 +37,8 @@
 nav{
     height: 10vh;
     width: 100%;
-    margin: auto;   
+    margin: auto;
+    border-radius: solid 2px #121212;   
 }
 
 nav ul{
